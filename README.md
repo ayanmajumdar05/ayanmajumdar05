@@ -1,4 +1,4 @@
--Hi I am Ayan Majumdar,
--I am somewhat proficient in the basics of C,Python. 
--Currently pursuing Btech Degree in CSBS through Bharati Vidyapeeth College of Engineering, Pune.
--Graduated 10+2 CBSE Course through SRDAV Dayanand Vihar , New Delhi 110092.
+# Ayan Majumdar-19M
+learning C++, OpenGL rendering basics. 
+Currently pursuing Btech Degree in CSBS through Bharati Vidyapeeth College of Engineering, Pune.
+Graduated 10+2 CBSE Course through SRDAV Dayanand Vihar , New Delhi 110092.
